@@ -1,9 +1,47 @@
-.ProjectContainer h4 {
+.navbar-custom {
+    background-color: #E2B1B1;
+    color: #748CAB;
+}
+
+.IndexContainer img {
+    height: auto;
+    width: 100%;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #3A606E;
+}
+
+.ProjectContainer h2 {
     text-align: center;
+    font-family: 'Lato', sans-serif;
+    color: #3E5C76;
+}
+
+.ProjectContainer h5 {
+    color: #748CAB;
 }
 
 .ProjectContainer img {
     width:100%;
+}
+
+.ExtrasContainer {
+    font-family: 'Lato', sans-serif;
+    color: #3E5C76;
+}
+.AboutContainer h2 {
+    font-family: 'Lato', sans-serif;
+    color: #3E5C76;
+}
+
+.ContactContainer h2 {
+    font-family: 'Lato', sans-serif;
+    color: #3E5C76;
 }
 
 .img-fluid {
