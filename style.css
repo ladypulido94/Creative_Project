@@ -3,6 +3,11 @@
     color: #748CAB;
 }
 
+.container {
+    position: relative;
+    text-align: center;
+}
+
 .IndexContainer img {
     height: auto;
     width: 100%;
